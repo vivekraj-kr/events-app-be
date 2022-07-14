@@ -1,5 +1,5 @@
 {
-  "name": "dj-events-backend",
+  "name": "events-app-be",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
