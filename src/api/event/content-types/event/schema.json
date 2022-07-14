@@ -31,7 +31,7 @@
     "time": {
       "type": "string"
     },
-    "performers": {
+    "speakers": {
       "type": "string"
     },
     "description": {
